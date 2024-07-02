@@ -1,5 +1,3 @@
-hii
-wsg
-
-hru?
-good
+What is Lua?|Lua is a powerful, efficient, lightweight, embeddable scripting language.
+How do I loop in Lua?|You can use `for` and `while` loops in Lua for iteration.
+How do I define a function in Lua?|You can define functions in Lua using the `function` keyword.
